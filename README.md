@@ -1,5 +1,3 @@
-# for-sevgilim
-for my baby
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -146,10 +144,10 @@ for my baby
       </p>
       <p>
         I can’t wait to be your wife someday.
-        I want a future with you, built on love, patience, and us.
+        well asawa na kita sa kwento 'ko hehehehhe
       </p>
       <p>
-        You are my one and only. 💍❤️
+        You are my one and only, Baby❤️
       </p>
     </div>
 
@@ -186,12 +184,9 @@ for my baby
 
     // MESSAGE OF THE DAY
     const messages = [
-      "Ikaw at ikaw ang pipiliin, Sev",
-      "No distance can change how much I love you",
       "I can’t wait to pay my utang kisses hehe",
       "Don't be pasaway eat your dinner ha!",
       "Always remember that I love you because you are YOU",
-      "One more day closer to you, baby ❤️",
       "You are worth every wait, Sev"
     ];
 
